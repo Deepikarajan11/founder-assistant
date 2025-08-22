@@ -1,0 +1,5 @@
+gradio==4.15.0
+openai
+python-dotenv
+pytz
+datetime
